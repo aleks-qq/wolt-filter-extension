@@ -1,1 +1,1 @@
-# wolt-filter-plugin
+# wolt-filter-extension
